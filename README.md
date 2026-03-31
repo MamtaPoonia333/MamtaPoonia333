@@ -27,6 +27,9 @@ Node.js • Express
 **Tools & Platforms:**  
 Git • GitHub • VS Code  
 
+**Database:**  
+ • MONGODB • MySQL  
+
 ---
 
 ## ✨ About Me
