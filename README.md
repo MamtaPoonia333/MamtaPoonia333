@@ -25,7 +25,7 @@ HTML • CSS • JavaScript • React
 Node.js • Express  
 
 **Tools & Platforms:**  
-Git • GitHub • VS Code  
+Git • GitHub • VS Code • Docker • AWS Sagemaker  • Postman • Gitlens  • Jupyter Notebook 
 
 **Database:**  
  • MONGODB • MySQL  
