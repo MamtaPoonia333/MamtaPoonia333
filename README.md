@@ -9,20 +9,19 @@
 ## 🌱 Currently Working On
 - Data Structures & Algorithms (Java)
 - Full Stack Development (MERN Stack)
-- Machine Learning & Data Science fundamentals
 - Preparing for Open Source contributions
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:**  
-Java • Python • C++
+Java • Python • C++ • typescript
 
 **Frontend:**  
-HTML • CSS • JavaScript • React  
+HTML • CSS • JavaScript • React  • Next • Tailwind • SCSS •  
 
 **Backend:**  
-Node.js • Express  
+Node.js • Express  • SpringBoot
 
 **Tools & Platforms:**  
 Git • GitHub • VS Code • Docker • AWS Sagemaker  • Postman • Gitlens  • Jupyter Notebook 
